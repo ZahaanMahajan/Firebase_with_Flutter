@@ -1,10 +1,12 @@
-# login_page_firebase
+# Firebase basics with flutter
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This app contains signIn, signUp and forgot password with email 
+authentication with google firebase as backend.
 
 A few resources to get you started if this is your first Flutter project:
 
